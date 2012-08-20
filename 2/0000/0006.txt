@@ -1,21 +1,21 @@
-USE
-TRASH
-REGISTER
-GIVE
-VIEW
-CONFIRM
-WALK
-BACK
-CANCEL
+GEBRUIK
+PRULLENBAK
+REGISTREER
+GEEF
+TOON
+TOESTAAN
+WANDEL
+TERUG
+ANNULEER
 SHOW
-DUMMY
-CANCEL
-BAG
+DOMMIE
+ANNULEER
+TAS
 MAIL
-TAKE
-GIVE
+NEEM
+GEEF
 CHECK
-NOTHING
+NIKS
 DESELECT
 ???
 ????
@@ -33,24 +33,24 @@ No.
 ID No.
 　
 Cursor
-Go back!
-What now?
-Give
+Ga terug!
+Wat nu?
+Geef
 \xf000Ȃ\x0001\x0000
 ×
 Drink
 \xf000ȃ\x0001\x0000まい
-Close
-\xf000ĉ\x0001\x0000 is selected.
-You cannot write\xfffemail here！
-There's no Pokémon!
-Move \xf000ĉ\x0001\x0000.
-The \xf000ĉ\x0001\x0000 can't be held.
-You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
-Store how many\xfffe\xf000ĉ\x0001\x0000?
-You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
-You can't store any more!
-This is an important item\xfffeso you can't throw it away！
+Sluit
+\xf000ĉ\x0001\x0000 is geselecteerd.
+Je kan hier geen\xfffemail schrijven！
+Er is geen Pokemon!
+Verplaats \xf000ĉ\x0001\x0000.
+De \xf000ĉ\x0001\x0000 kan niet gehouden worden.
+Je kan het hier niet\xfffe\xf000ĉ\x0001\x0000 geven!
+Plaats hoeveel?\xfffe\xf000ĉ\x0001\x0000?
+Je hebt geplaatst\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Je kan er niet meer plaatsen!!
+Dit is een belangrijk item\xfffeso je kan het niet weggooien!！
 Throw away how many\xfffe\xf000ĉ\x0001\x0000?
 Threw away \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
 Is it OK to throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
